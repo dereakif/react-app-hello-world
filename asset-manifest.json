@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-app-hello-world/static/js/main.d587bdc6.chunk.js",
+    "main.js.map": "/react-app-hello-world/static/js/main.d587bdc6.chunk.js.map",
+    "runtime-main.js": "/react-app-hello-world/static/js/runtime-main.b9e17648.js",
+    "runtime-main.js.map": "/react-app-hello-world/static/js/runtime-main.b9e17648.js.map",
+    "static/js/2.51fd7d6c.chunk.js": "/react-app-hello-world/static/js/2.51fd7d6c.chunk.js",
+    "static/js/2.51fd7d6c.chunk.js.map": "/react-app-hello-world/static/js/2.51fd7d6c.chunk.js.map",
+    "index.html": "/react-app-hello-world/index.html",
+    "static/js/2.51fd7d6c.chunk.js.LICENSE.txt": "/react-app-hello-world/static/js/2.51fd7d6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9e17648.js",
+    "static/js/2.51fd7d6c.chunk.js",
+    "static/js/main.d587bdc6.chunk.js"
+  ]
+}
